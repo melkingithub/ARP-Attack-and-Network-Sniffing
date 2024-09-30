@@ -51,6 +51,7 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/5276d754-0832-4f7d-a0dc-71da519265a1)
+
 Invoke the wireshark and examine the various menus and controls of the tool:
 ![image](https://github.com/user-attachments/assets/a9f15e29-61ce-4d04-ae6d-97c2a7fd05ee)
 
